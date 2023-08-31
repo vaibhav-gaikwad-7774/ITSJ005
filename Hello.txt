@@ -1,0 +1,12 @@
+class Hello
+{
+	public static void main(Strings args[])
+	{
+		first();
+	}
+	
+}
+	public static void first(Strings args[])
+	{
+	System.out.println("how are you");
+	}
